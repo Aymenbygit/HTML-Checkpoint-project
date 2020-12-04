@@ -5,7 +5,6 @@
   text-align: center;
   background-color: red;
   font-family: 'Nerko One', cursive;
-  position: fixed;
 }
 nav{
   background-color: salmon;
@@ -30,21 +29,75 @@ h3{
 }
 h1{
   text-align: center;
+  font-family: 'East Sea Dokdo', cursive;
+  color: white;
 }
 a{
   text-decoration: none;
+  color: black;
 }
 .myPic{
   border-radius: 50%;
-  display:inline;
 }
 .accueil{
-  background-image: url("https://www.freecodecamp.org/news/content/images/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+  background-image: url("https://i.stack.imgur.com/jGlzr.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height:500px;
+  height:800px;
 }
 .skills{
   display: block;
+}
+.scroll-2{
+  font-family: 'JetBrains Mono', monospace;
+}
+.bot-spc{
+  padding-bottom: 150px;
+}
+.about-spc{
+  padding: 30px;
+}
+.myname{
+  padding-top: 50px;
+}
+.aboutme{
+  background-color: tomato;
+  font-family: 'Roboto Slab', serif;
+}
+#mywork{
+  color: yellowgreen;
+  text-align: left;
+}
+.block-li{
+  display: block;
+}
+.contact-img{
+  background-image: url("https://img.freepik.com/photos-gratuite/main-homme-affaires-telephone-intelligent-icone-telephone-mobile-courrier-telephone-adresse-centre-appels-du-service-clientele-contactez-nous-concept_20693-208.jpg?size=626&ext=jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  color: white;
+}
+.contact-form{
+  width: 40%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  background-color: #E8F2A9;
+}
+.submit-btn{
+  width: 43%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.home-link{
+  color: blueviolet;
 }
 
