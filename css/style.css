@@ -1,0 +1,50 @@
+.footer {
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  background-color: red;
+  font-family: 'Nerko One', cursive;
+  position: fixed;
+}
+nav{
+  background-color: salmon;
+  padding: 10px;
+}
+li{
+  display: inline;
+  margin: 50px;
+  background-attachment: fixed; 
+  font-family: 'Sansita Swashed', cursive;
+}
+
+h2{
+  font-family: 'Nerko One', cursive;
+  color: blue;
+  text-align: center;
+}
+h3{
+  text-align: center;
+  font-family: 'Texturina', serif;
+  color: green;
+}
+h1{
+  text-align: center;
+}
+a{
+  text-decoration: none;
+}
+.myPic{
+  border-radius: 50%;
+  display:inline;
+}
+.accueil{
+  background-image: url("https://www.freecodecamp.org/news/content/images/2020/04/w-qjCHPZbeXCQ-unsplash.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:500px;
+}
+.skills{
+  display: block;
+}
+
